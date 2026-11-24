@@ -1,0 +1,5 @@
+/wavinfo
+/wavmod
+/tests/
+*.o
+*.d
